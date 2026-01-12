@@ -1,5 +1,8 @@
 🩸 BloodConnect - Smart Blood Donation Management System
 BloodConnect is a robust PHP-based web application designed to bridge the gap between blood donors and people in medical emergencies. It provides a real-time platform for posting, managing, and responding to blood requests efficiently.
+Admin Email: admin@bloodconnect.org
+      Password: password
+<img width="893" height="601" alt="1" src="https://github.com/user-attachments/assets/be0ac55f-b368-4a58-8aa1-51690dcc9ca3" />
 
 🚀 Key Features
 Secure Authentication: User-specific login and registration system.
@@ -12,7 +15,11 @@ Intelligent Request Flow: Users can create requests with detailed patient info, 
 
 Urgency-Based Expiry: Requests automatically calculate expiry dates (1-7 days) based on the priority level (Critical, Urgent, or Routine).
 
-One-Click Response: Donors can instantly commit to a request, which notifies the requester and logs the donation.
+One-Click Response: Donors can instantly commit to a request, which notifies the reques<img width="1354" height="505" alt="3" src="https://github.com/user-attachments/assets/a903f8e9-604a-4f33-9827-64a78161cdf9" />
+<img width="1346" height="594" alt="2" src="https://github.com/user-attachments/assets/67024757-3d63-449a-b80e-16a008753c4f" />
+<img width="1332" height="613" alt="5" src="https://github.com/user-attachments/assets/689cfcbc-7a54-4649-bd12-77901eb62b94" />
+<img width="1339" height="618" alt="4" src="https://github.com/user-attachments/assets/42aed2b9-25db-4b40-a5fa-c512c6bff482" />
+ter and logs the donation.
 
 Activity Logging: Tracks every major action (like creating a request) with user ID and IP address for security.
 
